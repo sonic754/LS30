@@ -1,0 +1,316 @@
+{
+    "users":[
+        {
+    "id": 1,
+    "name": "Leanne Graham",
+    "username": "Bret",
+    "email": "Sincere@april.biz",
+    "address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "phone": "1-770-736-8031 x56442",
+    "website": "hildegard.org",
+    "company": {
+      "name": "Romaguera-Crona",
+      "catchPhrase": "Multi-layered client-server neural-net",
+      "bs": "harness real-time e-markets"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Clementine Bauch",
+    "username": "Samantha",
+    "email": "Nathan@yesenia.net",
+    "address": {
+      "street": "Douglas Extension",
+      "suite": "Suite 847",
+      "city": "McKenziehaven",
+      "zipcode": "59590-4157",
+      "geo": {
+        "lat": "-68.6102",
+        "lng": "-47.0653"
+      }
+    },
+    "phone": "1-463-123-4447",
+    "website": "ramiro.info",
+    "company": {
+      "name": "Romaguera-Jacobson",
+      "catchPhrase": "Face to face bifurcated interface",
+      "bs": "e-enable strategic applications"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Patricia Lebsack",
+    "username": "Karianne",
+    "email": "Julianne.OConner@kory.org",
+    "address": {
+      "street": "Hoeger Mall",
+      "suite": "Apt. 692",
+      "city": "South Elvis",
+      "zipcode": "53919-4257",
+      "geo": {
+        "lat": "29.4572",
+        "lng": "-164.2990"
+      }
+    },
+    "phone": "493-170-9623 x156",
+    "website": "kale.biz",
+    "company": {
+      "name": "Robel-Corkery",
+      "catchPhrase": "Multi-tiered zero tolerance productivity",
+      "bs": "transition cutting-edge web services"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Chelsey Dietrich",
+    "username": "Kamren",
+    "email": "Lucio_Hettinger@annie.ca",
+    "address": {
+      "street": "Skiles Walks",
+      "suite": "Suite 351",
+      "city": "Roscoeview",
+      "zipcode": "33263",
+      "geo": {
+        "lat": "-31.8129",
+        "lng": "62.5342"
+      }
+    },
+    "phone": "(254)954-1289",
+    "website": "demarco.info",
+    "company": {
+      "name": "Keebler LLC",
+      "catchPhrase": "User-centric fault-tolerant solution",
+      "bs": "revolutionize end-to-end systems"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Mrs. Dennis Schulist",
+    "username": "Leopoldo_Corkery",
+    "email": "Karley_Dach@jasper.info",
+    "address": {
+      "street": "Norberto Crossing",
+      "suite": "Apt. 950",
+      "city": "South Christy",
+      "zipcode": "23505-1337",
+      "geo": {
+        "lat": "-71.4197",
+        "lng": "71.7478"
+      }
+    },
+    "phone": "1-477-935-8478 x6430",
+    "website": "ola.org",
+    "company": {
+      "name": "Considine-Lockman",
+      "catchPhrase": "Synchronised bottom-line interface",
+      "bs": "e-enable innovative applications"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Kurtis Weissnat",
+    "username": "Elwyn.Skiles",
+    "email": "Telly.Hoeger@billy.biz",
+    "address": {
+      "street": "Rex Trail",
+      "suite": "Suite 280",
+      "city": "Howemouth",
+      "zipcode": "58804-1099",
+      "geo": {
+        "lat": "24.8918",
+        "lng": "21.8984"
+      }
+    },
+    "phone": "210.067.6132",
+    "website": "elvis.io",
+    "company": {
+      "name": "Johns Group",
+      "catchPhrase": "Configurable multimedia task-force",
+      "bs": "generate enterprise e-tailers"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Nicholas Runolfsdottir V",
+    "username": "Maxime_Nienow",
+    "email": "Sherwood@rosamond.me",
+    "address": {
+      "street": "Ellsworth Summit",
+      "suite": "Suite 729",
+      "city": "Aliyaview",
+      "zipcode": "45169",
+      "geo": {
+        "lat": "-14.3990",
+        "lng": "-120.7677"
+      }
+    },
+    "phone": "586.493.6943 x140",
+    "website": "jacynthe.com",
+    "company": {
+      "name": "Abernathy Group",
+      "catchPhrase": "Implemented secondary concept",
+      "bs": "e-enable extensible e-tailers"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Glenna Reichert",
+    "username": "Delphine",
+    "email": "Chaim_McDermott@dana.io",
+    "address": {
+      "street": "Dayna Park",
+      "suite": "Suite 449",
+      "city": "Bartholomebury",
+      "zipcode": "76495-3109",
+      "geo": {
+        "lat": "24.6463",
+        "lng": "-168.8889"
+      }
+    },
+    "phone": "(775)976-6794 x41206",
+    "website": "conrad.com",
+    "company": {
+      "name": "Yost and Sons",
+      "catchPhrase": "Switchable contextually-based project",
+      "bs": "aggregate real-time technologies"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Clementina DuBuque",
+    "username": "Moriah.Stanton",
+    "email": "Rey.Padberg@karina.biz",
+    "address": {
+      "street": "Kattie Turnpike",
+      "suite": "Suite 198",
+      "city": "Lebsackbury",
+      "zipcode": "31428-2261",
+      "geo": {
+        "lat": "-38.2386",
+        "lng": "57.2232"
+      }
+    },
+    "phone": "024-648-3804",
+    "website": "ambrose.net",
+    "company": {
+      "name": "Hoeger LLC",
+      "catchPhrase": "Centralized empowering task-force",
+      "bs": "target end-to-end models"
+    }
+  }
+    ],
+    "products":[
+           {
+      "id": 1,
+      "title": "iPhone 14 Pro",
+      "description": "Apple smartphone with A16 chip and 48MP camera",
+      "category": "electronics",
+      "price": 999,
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0rL_T-NYsBMuzD4OrXsUoFVUnaRsSSZRapA&s"
+    },
+    {
+      "id": 2,
+      "title": "Samsung Galaxy S23",
+      "description": "Samsung flagship smartphone with AMOLED display",
+      "category": "electronics",
+      "price": 899,
+      "img":"https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-05-28/Uaqrg28jKpEkp2DT8gb8CtEFw1T9NUEF61lSV1J6IeEImycnhDhN3VlY1bFV.JPG"
+    },
+    {
+      "id": 3,
+      "title": "MacBook Air M2",
+      "description": "Lightweight Apple laptop with M2 chip",
+      "category": "laptops",
+      "price": 1199,
+      "img":"https://notebookoff.uz/upload/resize_cache/iblock/e56/1200_1200_140cd750bba9870f18aada2478b24840a/gyhv0wh53c4krbh8pejjcksdibyamjle.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Dell XPS 13",
+      "description": "Compact and powerful ultrabook",
+      "category": "laptops",
+      "price": 1099,
+      "img":"https://olcha.uz/image/600x600/products/2022-08-01/noutbuk-dell-xps-13-9310-i7-1165g7-16512gb-ssd-134-87164-0.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "AirPods Pro",
+      "description": "Wireless earbuds with noise cancellation",
+      "category": "audio",
+      "price": 249,
+      "img":"https://castore.uz/upload/iblock/21f/n3ik5lagbxqzk61n9g3a05juic2tvl65/besprovodnye-naushniki-airpods-pro-2nd-generation-mtjv3ru-a.webp"
+    },
+    {
+      "id": 6,
+      "title": "Sony WH-1000XM5",
+      "description": "Noise cancelling over-ear headphones",
+      "category": "audio",
+      "price": 399,
+      "img":"https://joybox.uz/wp-content/uploads/2023/08/f3ccdd27d2000e3f9255a7e3e2c48800_081923092821.jpeg"
+    },
+    {
+      "id": 7,
+      "title": "Apple Watch Series 9",
+      "description": "Smartwatch with health tracking features",
+      "category": "wearables",
+      "price": 499,
+      "img":"https://cdn.mediapark.uz/imgs/76e53c2b-4d69-4e24-ad2c-1ee6ca3b03d8_230914140051795486.webp"
+    },
+    {
+      "id": 8,
+      "title": "Samsung Galaxy Watch 6",
+      "description": "Smartwatch with fitness tracking",
+      "category": "wearables",
+      "price": 349,
+      "img":"https://castore.uz/upload/iblock/0cb/lowcnyh504l4ymshvb0iyr160yi1486u/smart-chasy-samsung-galaxy-watch-6-44mm-graphite.webp"
+    },
+    {
+      "id": 9,
+      "title": "Logitech MX Master 3",
+      "description": "Advanced wireless mouse",
+      "category": "accessories",
+      "price": 99,
+      "img":"https://pcmarket.uz/wp-content/uploads/2024/08/dP6uaoc2BgNBon8kvS8g-large_default-removebg-preview.png"
+    },
+    {
+      "id": 10,
+      "title": "Mechanical Keyboard RGB",
+      "description": "Gaming keyboard with RGB lighting",
+      "category": "accessories",
+      "price": 129,
+      "img":"https://media.wired.com/photos/5b21913a985bbd041c32d13d/master/pass/keyboard-TA.jpg"
+    }
+    ]
+}
